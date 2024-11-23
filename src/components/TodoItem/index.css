@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.ti {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.tit {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.db {
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid #ff0b37;
+  padding: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
